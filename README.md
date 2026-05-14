@@ -23,7 +23,7 @@ Tech Stack:
 - TradingView Lightweight Charts
 - Clean Architecture
 - Hexagonal Architecture
-- DDD & SOLID principles
+- DTO & SOLID principles
 
 Disclaimer:
 ChartFlow AI is an educational and analytical tool only. It does not provide financial advice or execute trades.
