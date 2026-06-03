@@ -1,0 +1,33 @@
+{
+  "name": "@chartflow-ai/frontend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "lint": "tsc --noEmit",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "jest --runInBand"
+  },
+  "dependencies": {
+    "lightweight-charts": "^5.2.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "@types/node": "^25.7.0",
+    "@types/jest": "^29.5.14",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.5.0",
+    "jest": "^29.7.0",
+    "postcss": "^8.5.14",
+    "tailwindcss": "^3.4.19",
+    "ts-jest": "^29.4.9",
+    "typescript": "^5.9.2",
+    "vite": "^7.2.7"
+  }
+}
